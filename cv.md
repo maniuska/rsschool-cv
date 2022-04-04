@@ -5,9 +5,7 @@
 * E-mail: maryna.lialik@gmail.com
 * diskord: maniuska 
 * [Linkedin](http://linkedin.com/in/mlialik/)
-
-
-![My photo :)](/image/sample.png "This is a sample image.")
+---
  
 ### Summary:
 Motivated JavaScript developer-novice looking forward to programming work experience. Responsibility, getting on well with other people and enthusiasm helps me in all tasks that I 've ever started. You can be sure that I am ready to work hard and learn a lot :)
